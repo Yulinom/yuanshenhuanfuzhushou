@@ -1,0 +1,5 @@
+[launcher]
+cps=pcadbdpz
+channel=14
+sub_channel=0
+game_install_path=
